@@ -2,3 +2,4 @@ Hello formation
 Modif 1
 Modif branch testing
 Modif pour github
+Modif après creation du tag 1.0.0
